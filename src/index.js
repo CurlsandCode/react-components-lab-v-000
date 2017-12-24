@@ -1,3 +1,5 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
 // Make sure to import React and ReactDOM
 
 const BUTCHER_PRODUCTS = [
